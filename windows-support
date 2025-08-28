@@ -1,0 +1,13 @@
+guides/windows.md
+# Windows Support
+
+## Resetting a User Password
+1. Press `Ctrl + Alt + Delete` and click **Change a password**.  
+2. Enter old password and new password.  
+3. Restart the computer to confirm.
+_________
+
+## Common Issues
+- **Blue Screen (BSOD):** Restart in Safe Mode and check drivers.  
+- **Printer not connecting:** Check cables, restart spooler service.  
+- **Slow startup:** Disable unnecessary startup programs.
