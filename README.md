@@ -1,4 +1,4 @@
-# it-support-knowledge-base
+
 # IT Support Knowledge Base
 
 This repository contains guides and tutorials for common IT Support tasks.  
